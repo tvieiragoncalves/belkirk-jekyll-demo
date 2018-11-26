@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Consultoria em saúde mental
-textline: |-
-  MH Resources
-
-  Consultoria em saúde mental
+textline: Uma equipa nacional de profissionais de saúde dedicados à saúde mental
 hero_button:
   text: Learn more
   href: "/about"
