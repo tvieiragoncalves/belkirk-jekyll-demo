@@ -12,7 +12,7 @@ services:
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Saúde mental
-  icon: "/uploads/2018/02/17/neurons.jpg"
+  icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Consultoria em saúde mental
 textline: Uma equipa nacional de profissionais de saúde dedicados à saúde mental
 hero_button:
