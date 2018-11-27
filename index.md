@@ -5,9 +5,6 @@ layout: landing-page
 heading: MH Resources
 partners:
 - "/uploads/2018/11/26/logo.svg"
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
 services:
 - description: Gestão estratégica adaptada à saúde
   heading: Consultoria
