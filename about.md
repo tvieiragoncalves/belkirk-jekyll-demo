@@ -2,13 +2,23 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/12/03/61802.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: sobre a MH Resources
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: 'Uma equipa multidisciplinar de profissionais de saúde ligados à área de
+  saúde mental. '
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
+services:
+- heading: Marketing Estratégico
+  description: ''
+  icon: ''
+- heading: Gestão estratégica aplicada à saúde
+  description: ''
+  icon: ''
+- heading: Treino corporativo
+  icon: ''
+show_news: true
 menu:
   footer:
     identifier: _about
