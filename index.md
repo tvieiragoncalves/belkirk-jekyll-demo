@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Início
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: MH Resources
@@ -24,5 +24,5 @@ menu:
   navigation:
     identifier: _index
     weight: 1
----
 
+---
