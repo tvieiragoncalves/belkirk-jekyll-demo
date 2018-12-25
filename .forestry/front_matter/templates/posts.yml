@@ -1,7 +1,4 @@
 ---
----
-
----
 label: posts
 hide_body: false
 is_partial: false
@@ -11,3 +8,5 @@ fields:
   type: text
   hidden: false
   default: post
+pages:
+- _posts/o-que-é-a-esquizofrenia.md
