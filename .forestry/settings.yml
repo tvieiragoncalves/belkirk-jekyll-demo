@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: true
 admin_path: ''
@@ -42,3 +39,5 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
+build:
+  publish_command: jekyll build
