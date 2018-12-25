@@ -1,7 +1,4 @@
 ---
----
-
----
 label: posts
 hide_body: false
 is_partial: false
@@ -12,5 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/o-que-é-a-esquizofrenia.md
+- _posts/2018-12-25-o-que-é-a-esquizofrenia.md
 - _posts/2018-12-25-o-que-são-perturbações-de-ansiedade.md
