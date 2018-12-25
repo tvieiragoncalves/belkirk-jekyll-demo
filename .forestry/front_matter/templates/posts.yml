@@ -1,7 +1,4 @@
 ---
----
-
----
 label: posts
 hide_body: false
 is_partial: false
@@ -13,4 +10,4 @@ fields:
   default: post
 pages:
 - _posts/2018-12-25-o-que-são-perturbações-de-ansiedade.md
-- _posts/a-ideação-suicida-e-a-depressão.md
+- _posts/2018-12-25-a-ideação-suicida-e-a-depressão.md
