@@ -30,11 +30,7 @@ menu:
     identifier: _about
     weight: 2
 ---
+A nossa consultora tem como associados uma rede multidisciplinar de profisiionais de saúde ligados a várias à áreas da saúde mental.
+A nossa missão é encontrar soluções de proximidade para os nossos clientes salvaguardando e dando primazia à prestação de cuidados de saúde de excelência.
 
-\-Treino corporativo
-
-\-Gestão estratégica aplicada à saúde 
-
-\-Marketing Estratégico
-
-* Projectos TI aplicados à área de saúde mental
+Estes são os nossos vectores de intervenção:

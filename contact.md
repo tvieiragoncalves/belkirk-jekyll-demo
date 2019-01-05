@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2017-11-01 03:00:00 Z
-banner_image: https://maps.googleapis.com/maps/api/staticmap?center=487+university+ave,+new+york+city&zoom=12&scale=2&size=600x290&maptype=satellite&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C500+university+ave,+new+york+city
+banner_image: https://maps.googleapis.com/maps/api/js?key=AIzaSyAAVHFte3vDXarnd_khsf_kRLAfiTjpYSo&sensor=false
 heading: Contact Belkirk College
 publish_date: 2017-12-01 04:00:00 Z
 show_staff: true
@@ -12,12 +12,12 @@ menu:
     title: Contacte-nos
 ---
 
-## Hours of Operation
-Belkirk College of Engineering is available:
+## Horário de funcionamento
+A nossa equipa está disponível
 
-- **Monday-Friday**, 8:00am to 6:00pm EST
-- **Saturdays**, 8:00am to 5:00pm EST
-- **Sundays**, 9:00am to 12:00pm EST
+- **Segunda-Sexta**, 8:00 to 18:00
+- **Sábado**, 8:00 to 17:00
+- **Domingo**, 9:00 to 12:00
 
-## Contact Information
+## Informação de contacto
 {% include address.html %}

@@ -1,6 +1,6 @@
 ---
-title: Belkirk College of Engineering
-timezone: UTC
+title: MH Resources
+timezone: GMT
 collections:
   people:
     title: People
@@ -26,9 +26,9 @@ defaults:
     type: posts
   values:
     layout: post
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
-baseurl: 
+short_title: MH Resources
+description: Consultoria em Saúde Mental
+baseurl:
 permalink: "/:path/"
 jekyll-archives:
   enabled: all
