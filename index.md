@@ -13,8 +13,7 @@ services:
 - description: Gestão estratégica adaptada à saúde
   heading: Consultoria
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
+- description: Planeamento e desenvolvimento de operações e adptações estratégicas em unidades de saúde.
   heading: Saúde mental
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Consultoria em saúde mental
@@ -25,4 +24,3 @@ hero_button:
 show_news: true
 show_staff: false
 ---
-
