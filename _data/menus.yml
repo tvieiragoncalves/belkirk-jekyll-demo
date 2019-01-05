@@ -1,7 +1,6 @@
 ---
 header:
-- url: "/_index"
-  title: API Documentation
+- url: ""
+  title: 
   identifier: api
 ---
-
