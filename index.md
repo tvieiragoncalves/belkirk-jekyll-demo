@@ -1,9 +1,9 @@
 ---
 title: Início
 menus:
- -  url: /index.md
-    title: Início
-    identifier: Início
+  navigation:
+    identifier: _index
+    weight: 1
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: MH Resources
@@ -24,8 +24,5 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
-menus:
-  navigation:
-    identifier: _index
-    weight: 1
 ---
+
