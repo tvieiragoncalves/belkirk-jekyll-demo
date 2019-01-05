@@ -1,9 +1,9 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 Z
+date: 2017-11-01 03:00:00 +00:00
 banner_image: https://maps.googleapis.com/maps/api/js?key=AIzaSyAAVHFte3vDXarnd_khsf_kRLAfiTjpYSo&sensor=false
 heading: Contact Belkirk College
-publish_date: 2017-12-01 04:00:00 Z
+publish_date: 2017-12-01 04:00:00 +00:00
 show_staff: true
 menus:
   navigation:
