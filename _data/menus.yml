@@ -1,6 +1,6 @@
 ---
 header:
-- url: ""
-  title: 
+- url: "/index.html"
+  title: API Documentation
   identifier: api
 ---
