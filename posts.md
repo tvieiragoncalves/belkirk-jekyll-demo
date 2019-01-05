@@ -5,7 +5,7 @@ sub_heading: ''
 description: Artigos da MH Resources
 publish_date: 2017-11-01 03:00:00 Z
 textline: Informações sobre Psicopatologia
-menu:
+menus:
   navigation:
     identifier: _posts
     weight: 4

@@ -5,7 +5,7 @@ banner_image: https://maps.googleapis.com/maps/api/js?key=AIzaSyAAVHFte3vDXarnd_
 heading: Contact Belkirk College
 publish_date: 2017-12-01 04:00:00 Z
 show_staff: true
-menu:
+menus:
   navigation:
     identifier: _contact
     weight: 5

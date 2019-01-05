@@ -22,7 +22,7 @@ services:
 - heading: Treino corporativo
   icon: ''
 show_news: true
-menu:
+menus:
   footer:
     identifier: _about
     weight: 2
