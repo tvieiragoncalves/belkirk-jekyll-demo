@@ -15,5 +15,11 @@
   <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
   <!--<![endif]-->
   <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
+  <header>
+     <nav>
+       {% assign menu = site.menus.header %}
+       {% include menus.html %}
+     </nav>
+   </header>
 </head>
 <body>
