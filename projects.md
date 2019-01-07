@@ -8,10 +8,10 @@ menus:
     identifier: _projects
     weight: 3
     title: Projectos
+    url: "/projects/"
   footer:
     identifier: _projects
     url: "/projects/"
     weight: 1
     title: Projectos
 ---
-
