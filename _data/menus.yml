@@ -1,7 +1,8 @@
 ---
-  header:
-  - url: /posts
-    title: API Documentation
-    identifier: api
-    weight: 1
+header:
+- url: "/posts"
+  title: API Documentation
+  identifier: api
+  weight: 1
 ---
+
