@@ -1,7 +1,7 @@
 ---
 title: Contacto
 date: 2017-11-01 03:00:00 +00:00
-banner_image: https://maps.googleapis.com/maps/api/js?key=AIzaSyAAVHFte3vDXarnd_khsf_kRLAfiTjpYSo&sensor=false
+banner_image: 
 heading: Contacte MH Resources
 publish_date: 2017-12-01 04:00:00 +00:00
 show_staff: true
