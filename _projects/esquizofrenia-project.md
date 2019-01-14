@@ -19,9 +19,3 @@ Esta doença mental afecta as pessoas de diferentes formas podendo ter períodos
 Somos especializados na reabilitação de patologias psicológicas e psiquiátricas, bem como no acompanhamento de doenças degenerativas que exigem supervisão clínica ou necessitam de apoio técnico adequado. A atenção que damos a cada caso clínico e o ambiente comunitário securizante, são fundamentais para a adaptação do doente e para os resultados do processo terapêutico.
 
 A clínica de internamento psiquiátrico dispõe de uma gama de serviços que vão ao encontro das necessidades dos seus utentes, proporcionando além do tratamento médico/psicológico adequado, um alojamento em ambiente protector.
-
-
-## Clínicas convencionadas
-- Ambulatory Care???
-- Automated response for solitary patients??
-- Long-term data collection and analysis???
