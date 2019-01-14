@@ -11,6 +11,7 @@ menus:
     weight: 5
     title: Contacte-nos
 ---
+
 {% include form.html %}
 
 ## Horário de funcionamento
