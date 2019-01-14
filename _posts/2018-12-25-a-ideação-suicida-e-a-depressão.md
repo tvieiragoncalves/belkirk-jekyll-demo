@@ -1,5 +1,5 @@
 ---
-title: A Ideação Suicida E A Depressão
+title: A Ideação Suicida e a Depressão
 date: 2018-12-25 19:45:28 Z
 layout: post
 ---
