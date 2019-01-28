@@ -9,6 +9,7 @@ layout: landing-page
 heading: MH Resources
 partners:
 - "/uploads/2018/11/26/logo.svg"
+- "/uploads/2018/11/26/logo2.jpeg"
 services:
 - description: Gestão estratégica adaptada à saúde
   heading: Consultoria
@@ -25,4 +26,3 @@ hero_button:
 show_news: true
 show_staff: false
 ---
-
