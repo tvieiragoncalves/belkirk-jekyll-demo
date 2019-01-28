@@ -604,11 +604,14 @@ a, h1, h2, h3, h4, li, p {
   padding: 0 16px;
   padding: 0 1rem
 }
+/*Teste ao banner em ecrã pequeno*/
 
-@media screen and (min-width:1100px) {
-  #banner .container {
-    padding: 0
-  }
+@media screen only and (min-width:890px) {
+    #banner .container {
+      height: 50%;
+      padding-top: 30px;
+      opacity: 59
+    }
 }
 
 #banner .container>:before {
@@ -678,7 +681,8 @@ a, h1, h2, h3, h4, li, p {
   background-color: #fff;
   border-bottom: 1px solid rgba(#8b2004, 0.1);
   box-sizing: border-box;
-  overflow: visible
+  overflow: visible;
+  padding-bottom: 100px
 }
 
 .logo {
@@ -935,7 +939,8 @@ nav ul a {
 
 .main-nav ul {
   float: right;
-  margin-top: 14px
+  margin-top: 14px;
+
 }
 
 .main-nav li {
@@ -953,19 +958,26 @@ nav ul a {
 }
 
 .main-nav li a .fa {
-  font-size: 10px;
+  font-size: 20px;
   vertical-align: top;
   margin-top: 6px;
   margin-left: 5px;
   margin-right: -10px;
   width: 11px
 }
+@media only screen and (max-width: 890px){
+  .main-nav ul {
+    display: block;
+    margin-top: 0px;
 
-@media (max-width:768px) {
-  .main-nav {
-    display: none
   }
-}
+    .main-nav li a{
+      letter-spacing: 1px;
+      color: #FF0000;
+      display: inline-block;
+
+    }
+      }
 
 .side-nav {
   margin-top: 5px;
@@ -1034,6 +1046,11 @@ nav ul a {
   white-space: nowrap;
   line-height: 25px
 }
+@media screen only and (min-width:890px){
+  .navigation li a {
+    font-size: 9px;
+
+}}
 
 .navigation ul li a {
   border-radius: 0;
