@@ -606,13 +606,6 @@ a, h1, h2, h3, h4, li, p {
 }
 /*Teste ao banner em ecrã pequeno*/
 
-@media screen only and (min-width:890px) {
-    #banner .container {
-      height: 50%;
-      padding-top: 30px;
-      opacity: 59
-    }
-}
 
 #banner .container>:before {
   content: "";
@@ -682,9 +675,8 @@ a, h1, h2, h3, h4, li, p {
   border-bottom: 1px solid rgba(#8b2004, 0.1);
   box-sizing: border-box;
   overflow: visible;
-  padding-bottom: 100px
+  padding-bottom: 100px;
 }
-
 .logo {
   margin: 0
 }
@@ -977,6 +969,9 @@ nav ul a {
       display: inline-block;
 
     }
+    .site-header {
+      padding-bottom: 200px;
+      }
       }
 
 .side-nav {
