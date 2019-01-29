@@ -211,7 +211,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multipart-post (2.0.0)
-    nokogiri (1.10.0)
+    nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
     nuggets (1.6.0)
     octokit (4.13.0)
@@ -255,6 +255,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-menus
   jekyll-seo-tag
+  jekyll-sitemap
   jekyll-tagging
   tzinfo-data
 

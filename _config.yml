@@ -28,12 +28,13 @@ defaults:
     layout: post
 short_title: MH Resources
 description: Consultoria em Saúde Mental
-baseurl: 
+baseurl:
 permalink: "/:path/"
 jekyll-archives:
   enabled: all
   layout: archive
 plugins:
+- jekyll-sitemap
 - jekyll-seo-tag
 - jekyll-menus
 - jekyll-feed
