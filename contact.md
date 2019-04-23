@@ -14,12 +14,6 @@ menus:
 
 {% include form.html %}
 
-## Horário de funcionamento
-A nossa equipa está disponível
-
-- **Segunda-Sexta**, 8:00 to 18:00
-- **Sábado**, 8:00 to 17:00
-- **Domingo**, 9:00 to 12:00
 
 ## Informação de contacto
 {% include address.html %}
