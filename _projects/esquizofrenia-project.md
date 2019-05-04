@@ -1,4 +1,5 @@
 ---
+priority: 1.0
 title: Internamento Psiquiátrico nas Doenças Mentais Graves
 date: 2016-04-20 00:00:00 +00:00
 tags:

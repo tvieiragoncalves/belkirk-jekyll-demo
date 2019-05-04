@@ -1,4 +1,5 @@
 ---
+priority: 0.6
 title: Início
 menus:
   navigation:
@@ -26,4 +27,3 @@ hero_button:
 show_news: true
 show_staff: false
 ---
-
