@@ -1,5 +1,6 @@
 ---
-priority: 0.6
+sitemap:
+  priority: 0.6
 title: Início
 menus:
   navigation:
