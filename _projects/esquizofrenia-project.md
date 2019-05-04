@@ -1,10 +1,10 @@
 ---
-priority: 1.0
 title: Internamento Psiquiátrico nas Doenças Mentais Graves
 date: 2016-04-20 00:00:00 +00:00
 tags:
 - esquizofrenia
 - Investigação
+priority: 1.0
 description: Integração de doentes em unidades de cuidades especializadas.
 banner_image: "/uploads/2018/02/17/neurons.jpg"
 sub_heading: Integração de doentes em unidades de cuidades especializadas.

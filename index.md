@@ -1,7 +1,7 @@
 ---
+title: Início
 sitemap:
   priority: 0.6
-title: Início
 menus:
   navigation:
     identifier: _index
@@ -28,3 +28,4 @@ hero_button:
 show_news: true
 show_staff: false
 ---
+
