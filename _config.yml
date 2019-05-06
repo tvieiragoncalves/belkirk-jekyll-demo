@@ -26,7 +26,7 @@ defaults:
     type: posts
   values:
     layout: post
-url: https://mhresources.tk
+url: https://mhresources.pt
 logo: "/img/logo-retina.png"
 google_site_verification:
 lang: pt_PT
@@ -34,7 +34,7 @@ sitemap:
   priority_name: priority
 short_title: MH Resources
 description: Consultoria em Saúde Mental
-baseurl: 
+baseurl:
 permalink: "/:path/"
 jekyll-archives:
   enabled: all
