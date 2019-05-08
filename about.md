@@ -12,15 +12,15 @@ show_staff: false
 services:
 - heading: Transferência de cuidados de saúde
   description: ''
-  icon: ''
+  icon: '/uploads/2017/11/13/shuffle.svg'
 - heading: Marketing Estratégico
   description: ''
-  icon: ''
+  icon: '/uploads/2017/11/13/activity.svg'
 - heading: Gestão estratégica aplicada à saúde
   description: ''
-  icon: ''
+  icon: '/uploads/2017/11/13/plus-square.svg'
 - heading: Treino corporativo
-  icon: ''
+  icon: '/uploads/2017/11/13/users.svg'
 show_news: true
 menus:
   footer:
