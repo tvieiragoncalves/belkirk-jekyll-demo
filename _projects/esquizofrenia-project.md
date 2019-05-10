@@ -7,7 +7,7 @@ tags:
 priority: 1.0
 description: Integração de doentes em unidades de cuidades especializadas.
 banner_image: "/uploads/2018/02/17/neurons.jpg"
-sub_heading: Integração de doentes em unidades de cuidados especializadas.
+sub_heading: Integração de doentes em unidades de cuidados especializadas em Lisboa, Aveiro e Coimbra.
 ---
 
 ## O que fazemos
