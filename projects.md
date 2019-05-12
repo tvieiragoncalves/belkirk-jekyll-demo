@@ -1,5 +1,5 @@
 ---
-title: Projectos
+title: Internamento Psiquiátrico
 layout: projects
 description: Projectos da MH Resources
 publish_date: 2017-11-01 03:00:00 +00:00
@@ -7,7 +7,7 @@ menus:
   navigation:
     identifier: _projects
     weight: 3
-    title: Projectos
+    title: Internamento Psiquiátrico
     url: "/projects/"
   footer:
     identifier: _projects
@@ -15,4 +15,3 @@ menus:
     weight: 1
     title: Projectos
 ---
-
