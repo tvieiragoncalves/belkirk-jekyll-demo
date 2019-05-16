@@ -1,5 +1,5 @@
 ---
-title: Internamento Psiquiátrico nas Doenças Mentais Graves
+title: Internamento Psiquiátrico nas Doenças Mentais 
 date: 2016-04-20 00:00:00 +00:00
 tags:
 - esquizofrenia
