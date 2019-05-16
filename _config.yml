@@ -1,5 +1,5 @@
 ---
-title: MH Resources
+title: MH Resources - Saúde Mental
 timezone: GMT
 collections:
   people:
@@ -33,7 +33,7 @@ lang: pt_PT
 sitemap:
   priority_name: priority
 short_title: MH Resources
-description: Consultoria em Saúde Mental
+description: Consultoria em Saúde Mental e referenciação de serviços de internamento psiquiátrico em Aveiro, Coimbra e Lisboa.
 baseurl:
 permalink: "/:path/"
 jekyll-archives:
