@@ -1,5 +1,5 @@
 ---
-title: Internamento Psiquiátrico nas Doenças Mentais 
+title: Internamento Psiquiátrico nas Doenças Mentais
 date: 2016-04-20 00:00:00 +00:00
 tags:
 - esquizofrenia
@@ -29,7 +29,7 @@ As clínicas de internamento psiquiátrico dispõe de uma gama de serviços que 
 
 
 
-<h2>Algumas patologias que podem benificiar de um tratamento em internamento são: </h2>
+<h2>Algumas patologias que podem beneficiar de um tratamento em internamento são: </h2>
 
 <b>Perturbação depressiva</b>
 
