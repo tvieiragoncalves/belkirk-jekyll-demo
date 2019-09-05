@@ -1,6 +1,13 @@
 ---
 title: MH Resources - Saúde Mental
 timezone: GMT
+params:
+  description: Consultoria em Saúde Mental e referenciação de serviços de internamento psiquiátrico em Aveiro, Coimbra e Lisboa.
+  images:
+  - /img/logo-retina.png
+  title: MH Resources - Saúde Mental
+taxonomies:
+  series: series
 collections:
   people:
     title: People
