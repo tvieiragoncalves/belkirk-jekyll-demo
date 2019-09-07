@@ -1,11 +1,15 @@
 ---
-title: MH Resources - Saúde Mental
+title: MH Resources - Saúde Mental | Internamento Psiquiátrico
 timezone: GMT
+lang: pt_PT
+locale: pt_PT
+og:locale: pt_PT
+og:title: MH Resources - Saúde Mental | Internamento Psiquiátrico
 params:
   description: Consultoria em Saúde Mental e referenciação de serviços de internamento psiquiátrico em Aveiro, Coimbra e Lisboa.
-  images:
-  - /img/logo-retina.png
+  images: '/img/logo-retina.png'
   title: MH Resources - Saúde Mental
+  og:title: MH Resources - Saúde Mental
 taxonomies:
   series: series
 collections:
@@ -36,7 +40,7 @@ defaults:
 url: https://mhresources.pt
 logo: "/img/logo-retina.png"
 google_site_verification:
-lang: pt
+
 tag_page_layout: tag
 tag_page_dir: tag
 sitemap:
