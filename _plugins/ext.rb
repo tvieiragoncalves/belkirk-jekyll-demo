@@ -5,3 +5,5 @@
 # https://github.com/pattex/jekyll-tagging
 require 'jekyll/tagging'
 require "jekyll/seo"
+require 'jekyll/localization'
+require 'jekyll/tagging'

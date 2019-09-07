@@ -36,7 +36,9 @@ defaults:
 url: https://mhresources.pt
 logo: "/img/logo-retina.png"
 google_site_verification:
-lang: pt_PT
+lang: pt
+tag_page_layout: tag
+tag_page_dir: tag
 sitemap:
   priority_name: priority
 short_title: MH Resources
