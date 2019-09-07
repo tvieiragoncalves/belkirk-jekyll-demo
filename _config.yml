@@ -54,6 +54,5 @@ jekyll-archives:
   layout: archive
 plugins:
 - jekyll-seo-tag
-- jekyll-menus
 - jekyll-feed
 - jekyll-archives
