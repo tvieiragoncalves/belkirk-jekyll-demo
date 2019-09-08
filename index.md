@@ -1,5 +1,6 @@
 ---
 title: Início
+layout: landing-page
 sitemap:
   priority: 0.6
 menus:
@@ -7,7 +8,6 @@ menus:
     identifier: _index
     weight: 1
 banner_image: "/img/banner.png"
-layout: landing-page
 heading: MH Resources
 partners:
 - "/uploads/2018/11/26/logo.svg"
@@ -18,7 +18,7 @@ services:
   icon: "/uploads/2017/11/13/health.png"
 - description: Planeamento e desenvolvimento de operações e adptações estratégicas
     em unidades de saúde.
-  heading: Saúde mental
+  heading: Saúde mental | Internamento Psiquiátrico
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Consultoria em saúde mental
 textline: Uma equipa nacional de profissionais de saúde dedicados à saúde mental

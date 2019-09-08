@@ -7,3 +7,4 @@ require 'jekyll/tagging'
 require "jekyll/seo"
 require 'jekyll/localization'
 require 'jekyll/tagging'
+require 'jekyll/pagination'
