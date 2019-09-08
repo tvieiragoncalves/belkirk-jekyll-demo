@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como lidar com o pânico ?
-date: '2019-09-08 15:15:00'
+date: 2019-09-08 15:15:24 +00:00
 tags: Pânico ansiedade medo fobia psicologia psiquiatria
 ---
 
