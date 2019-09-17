@@ -48,6 +48,7 @@ sitemap:
   priority_name: priority
 short_title: MH Resources
 description: Consultoria em Saúde Mental e referenciação de serviços de internamento psiquiátrico em Aveiro, Coimbra e Lisboa.
+encoding: utf-8
 baseurl:
 permalink: "/:path/"
 jekyll-archives:
