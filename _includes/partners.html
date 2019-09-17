@@ -8,10 +8,12 @@
         <h2>Parceiros</h2>
         <div class="flexslider">
             <ul class="slides">
+               {{ urls }}
                 {% for logo in page.partners %}
                     <li>
-                        <img src="{{ logo | absolute_url }}" alt="{{ logo }}"  />
-                        <a href="https://tiagogoncalvespsi.tk/"></a>
+                        <a href=" {{ page.logoli }}">
+                        <img src="{{ logo | absolute_url }}" alt="{{ logo }}" href = "{{ page.logoli }}" />
+                        </a>
                     </li>
                 {% endfor %}
             </ul>

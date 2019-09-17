@@ -9,9 +9,11 @@ menus:
     weight: 1
 banner_image: "/img/banner.png"
 heading: MH Resources
+logoli: "https://tiagogoncalvespsi.tk"
 partners:
-- "/uploads/2018/11/26/logo.svg"
-- "/uploads/2018/11/26/logo2.jpeg"
+  - "/uploads/2018/11/26/logo.svg"
+  - "/uploads/2018/11/26/logo2.jpeg"
+
 services:
 - description: Gestão estratégica adaptada à saúde
   heading: Consultoria
@@ -28,4 +30,3 @@ hero_button:
 show_news: true
 show_staff: false
 ---
-
