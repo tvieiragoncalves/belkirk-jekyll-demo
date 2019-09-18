@@ -1,9 +1,8 @@
 ---
 title: O Que é A Esquizofrenia
-date: 2018-12-25 18:39:47 Z
 layout: post
 date: '2019-09-16 15:15:24 +0000'
-tags: Esquizofrenia  medo fobia psicologia psiquiatria 
+tags: Esquizofrenia  medo fobia psicologia psiquiatria
 ---
 
 A esquizofrenia é uma perturbação mental caracterizada pelo discurso e pensamento desorganizados, alucinações, delírios e anormalidades na expressão emocional. Esta perturbação afecta cerca de uma em cada cem pessoas, tipicamente começando na adolescência tardia e início da juventude.
