@@ -35,3 +35,4 @@ A nossa consultora tem como associados uma rede multidisciplinar de profissionai
 A nossa missão é encontrar soluções de proximidade para os nossos clientes salvaguardando e dando primazia à prestação de cuidados de saúde de excelência.
 
 Estes são os nossos vectores de intervenção:
+{% include floatbutton.html %}

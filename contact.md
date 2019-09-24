@@ -17,3 +17,4 @@ menus:
 
 ## Informação de contacto
 {% include address.html %}
+{% include floatbutton.html %}

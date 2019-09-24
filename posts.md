@@ -14,3 +14,4 @@ menus:
     weight: 3
 ---
 
+{% include floatbutton.html %}
