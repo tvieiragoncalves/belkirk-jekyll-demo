@@ -7,7 +7,7 @@ og:locale: pt_PT
 og:title: MH Resources - Saúde Mental | Internamento Psiquiátrico
 params:
   description: Consultoria em Saúde Mental e referenciação de serviços de internamento psiquiátrico em Aveiro, Coimbra e Lisboa.
-  images: '/img/logo-retina.png'
+  images: '/img/logo-retina.webp'
   title: MH Resources - Saúde Mental
   og:title: MH Resources - Saúde Mental
 taxonomies:
