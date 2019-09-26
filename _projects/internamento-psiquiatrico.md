@@ -15,6 +15,9 @@ Somos especializados na reabilitação de patologias psicológicas e psiquiátri
 
 As clínicas de internamento psiquiátrico dispõe de uma gama de serviços que vão ao encontro das necessidades dos seus utentes, proporcionando além do tratamento médico/psicológico adequado, um alojamento em ambiente protector.
 
+<h1>Internamento em clínicas psquiátricas particulares</h1>
+
+
 <h2>Tipos de internamento com que trabalhamos:</h2>
 
 <b>Internamentos urgentes </b> - Quando o utente se encontra em fase aguda de descompensação e necessita de uma intervenção quase imediata. Geralmente são necessários cuidados de enfermagem e administração de medicação psiquiátrica. Trabalhamos com Clínicas que asseguram o acompanhamento destes casos e admitem internamentos 24h por dia, 7 dias por semana.
@@ -27,6 +30,7 @@ As clínicas de internamento psiquiátrico dispõe de uma gama de serviços que 
 
 <b>Tratamentos Exclusivos</b> - Para pessoas que pretendem um tratamento ultra personalizado, direcionados para uma pessoa de cada vez.
 
+<h1>Tratamento psiquiátrico em internamento</h1>
 
 
 <h2>Algumas patologias que podem beneficiar de um tratamento em internamento são: </h2>
