@@ -26,7 +26,7 @@ sub_heading: Consultoria em saúde mental
 textline: Uma equipa nacional de profissionais de saúde dedicados à saúde mental
 hero_button:
   text: Saiba mais
-  href: "/about"
+  href: "/sobre"
 show_news: true
 show_staff: false
 ---

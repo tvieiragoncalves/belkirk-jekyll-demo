@@ -11,7 +11,7 @@ menus:
     url: "/projects/"
   footer:
     identifier: _projects
-    url: "/Projectos/"
+    url: "/Projects/"
     weight: 1
     title: Projectos
 ---
