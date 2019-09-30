@@ -4,7 +4,8 @@ layout: post
 date: '2019-09-30 15:15:24 +0000'
 tags: Internamento clínica psiquiátrica depressão psicologia psiquiatria
 ---
-<h1>O que é a depressão</h1>
+
+
 
 A depressão é uma das doenças psiquiátricas mais comuns. De acordo com a Organização Mundial de Saúde, a depressão é um dos principais problemas de saúde no mundo desenvolvido. Estima-se que uma em cada quatro mulheres e um em cada dez homens possam ter crises de depressão nalguma fase da sua vida, e as crianças também podem ser afetadas.
 
