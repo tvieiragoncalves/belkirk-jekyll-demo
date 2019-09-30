@@ -4,18 +4,18 @@ layout: post
 date: '2019-09-30 15:15:24 +0000'
 tags: Internamento clínica psiquiátrica depressão psicologia psiquiatria
 ---
-#O que é a depressão
+<h1>O que é a depressão</h1>
 
 A depressão é uma das doenças psiquiátricas mais comuns. De acordo com a Organização Mundial de Saúde, a depressão é um dos principais problemas de saúde no mundo desenvolvido. Estima-se que uma em cada quatro mulheres e um em cada dez homens possam ter crises de depressão nalguma fase da sua vida, e as crianças também podem ser afetadas.
 
 A depressão é uma das mais dolorosas e difíceis experiências humanas. Esta doença caracteriza-se pela perda de energia e da vontade de fazer investimentos em actividades prazerosas. Evidencia-se também na depressão uma visão negativa de si próprio, do mundo e do futuro. Os doentes que padecem desta doença apresentam também perturbações do sono, diminuição do apetite e da líbido.
 
-##Diferença entre tristeza e depressão
+<h1>Diferença entre tristeza e depressão</h1>
 
 A tristeza é um sentimento normativo, universal e necessário. A depressão ou o Humor
 depressivo ultrapassa em muito aquela tristeza que todos sentimos em determinadas alturas da vida perante determinados acontecimentos. De grosso modo podemos comparar a tristeza a uma dor muscular que nos apareceu depois de fazermos exercício ou depois de algum esforço, é aquele tipo de dor que sabemos perfeitamente que vai passar no dia seguinte ou passado dois dias. A depressão é mais comparável a uma lesão muscular grave, que necessita de fisioterapia e acompanhamento médico para ser tratada.
 
-##Internamento psiquiátrico na depressão
+<h1>Internamento psiquiátrico na depressão</h1>
 
 O internamento psiquiátrico nesta patologia torna-se vantajoso, na medida em contribui para uma maior qualidade de vida, controlo dos sintomas, quando falta ao paciente suporte psicossocial, ou quando o paciente não coopera.
 
