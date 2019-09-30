@@ -10,5 +10,3 @@ A ansiedade é uma resposta emocional normal perante situações de perigo e ame
 
 As pessoas que se debatem com elevada ansiedade durante longos períodos de tempo são muitas vezes afectadas por perturbações de ansiedade. Estas perturbações têm um impacto significativo na vida dos doentes, podendo perturbar a qualidade de vida, dado interferirem nas relações sociais, performance laboral e escolar. Existem vários tipos de perturbações deste tipo, alguns exemplos são: a perturbação de ansiedade generalizada, a perturbação de pânico e a perturbação de ansiedade social.
 {% include floatbutton.html %}
-
-![](/uploads/2018/12/11/1.png)
