@@ -37,11 +37,11 @@ defaults:
     type: posts
   values:
     layout: post
-url: https://mhresources.pt
+url: "https://mhresources.pt"
 logo: "/img/logo-retina.png"
 google_site_verification:
 paginate: 10
-paginate_file: index.html
+paginate_file: "/index.html"
 tag_page_layout: tag
 tag_page_dir: tag
 sitemap:
