@@ -1,4 +1,4 @@
 
 User-agent: *
 Disallow:
-Sitemap: https://mhresources.pt/sitemap.xml
+Sitemap: https://www.mhresources.pt/sitemap.xml
