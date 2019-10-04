@@ -26,6 +26,6 @@ Será avaliado por uma equipa de profissionais de saúde mental tais como psiqui
 
 O tratamento eficaz da patologia depressiva geralmente faz-se em parceria entre psicoterapia e psiquiatria. Quando esta resposta se torna ineficaz ou existe ideação suicida é aconselhável que a pessoa procure um tratamento mais intensivo que geralmente se dá na forma de internamento. Os internamentos psiquiátricos em estruturas intermédias (entre o Hospital e o ambulatório) que tenham por base a psicoterapia individual e em grupo e a farmacologia mostram-se cada vez mais de grande utilidade para o tratamento da depressão e podem ser uma resposta eficiente e eficaz com bons e sólidos resultados.
 
-
+Se você um familiar ou amigo necessita desta ajuda ligue-nos, estamos aqui para o esclarecer.
 
 {% include floatbutton.html %}
