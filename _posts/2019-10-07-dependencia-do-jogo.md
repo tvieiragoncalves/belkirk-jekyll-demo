@@ -1,5 +1,5 @@
 ---
-title: Dependência do Jogo: O que posso fazer em relação a este problema?
+title: Dependência do Jogo, o que posso fazer em relação a este problema?
 layout: post
 date: '2019-10-07 15:15:24 +0000'
 tags: Internamento clínica psiquiátrica dependencia jogo psicologia psiquiatria
