@@ -14,7 +14,6 @@ partners:
   - "/uploads/2018/11/26/logo.svg"
   - "/uploads/2018/11/26/logo2.jpeg"  
   - "/img/logo fundo_transparente.png"
-  - "/img/cj.png"
 
 
 services:
