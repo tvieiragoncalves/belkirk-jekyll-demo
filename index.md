@@ -1,5 +1,5 @@
 ---
-title: MH Resources Internamento Psiquiátrico
+title: Saúde Mental
 layout: landing-page
 sitemap:
   priority: 0.6
