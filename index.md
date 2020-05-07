@@ -1,5 +1,5 @@
 ---
-title: Início
+title: MH Resources Internamento Psiquiátrico
 layout: landing-page
 sitemap:
   priority: 0.6
@@ -14,6 +14,8 @@ partners:
   - "/uploads/2018/11/26/logo.svg"
   - "/uploads/2018/11/26/logo2.jpeg"  
   - "/img/logo fundo_transparente.png"
+  - "/img/cj.png"
+
 
 services:
 - description: Gestão estratégica adaptada à saúde mental. Enquanto profissional de saúde temos para si um serviço de consultoria à medida das suas necessidades. Podemos ajudar na divulgação do seu serviço fazendo-o chegar às pessoas que mais poderiam benificiar da sua oferta. Temos acordos com profissionais na área de saúde mental (Psiquiatras, Psicólogos, Enfermeiros) em várias zonas do país, com diferentes sub-especialidades de intervenção, podendo desta forma responder a várias necessidades.
