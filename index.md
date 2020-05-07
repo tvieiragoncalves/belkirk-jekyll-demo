@@ -9,7 +9,7 @@ menus:
     weight: 1
 banner_image: "/img/banner.png"
 heading: MH Resources
-logoli: "https://tiagogoncalvespsi.tk"
+logoli: "https://psicologiaclinica.cf"
 partners:
   - "/uploads/2018/11/26/logo.svg"
   - "/uploads/2018/11/26/logo2.jpeg"
