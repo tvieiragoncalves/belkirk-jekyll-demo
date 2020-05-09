@@ -9,7 +9,7 @@ menus:
     weight: 1
 banner_image: "/img/bannercompress.png"
 heading: MH Resources
-logoli: "https://psicologiaclinica.cf"
+logoli: "https://casadaoliveira-cspc.pt/"
 
 partners:
   - "/uploads/2018/11/26/logo.svg"
