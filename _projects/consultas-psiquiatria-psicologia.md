@@ -7,7 +7,7 @@ tags:
 - Psiquiatria
 priority: 1
 description: Intervenção especializada em vários tipos de perturbações, disponível em vários pontos do país.
-banner_image: "/uploads/2018/02/17/canbanner.png"
+banner_image: "/uploads/2018/02/17/canbanner(1).png"
 sub_heading: Uma abordagem multidisciplinar à saúde mental contando com um leque diversificado de serviços de Psiquiatria e Psicologia.
 ---
 

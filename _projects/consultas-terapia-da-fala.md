@@ -7,7 +7,7 @@ tags:
 - Fala
 priority: 1
 description: Intervenção especializada em vários tipos de perturbações que afectam a fala
-banner_image: "/uploads/2018/02/17/canbanner.png"
+banner_image: "/uploads/2018/02/17/canbanner(1).png"
 sub_heading: Uma abordagem com um leque diversificado de serviços de vocacionada para crianças e adultos.
 ---
 
