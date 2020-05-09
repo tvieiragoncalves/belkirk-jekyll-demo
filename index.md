@@ -7,7 +7,7 @@ menus:
   navigation:
     identifier: _index
     weight: 1
-banner_image: "/img/banner.png"
+banner_image: "/img/bannercompress.png"
 heading: MH Resources
 logoli: "https://psicologiaclinica.cf"
 
