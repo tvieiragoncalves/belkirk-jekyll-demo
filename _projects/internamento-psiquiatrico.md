@@ -43,103 +43,103 @@ Ligue-nos para saber mais informações sobre os processos de internamento e as 
 <h2>Algumas patologias da saúde mental que podem beneficiar de um tratamento em internamento são: </h2>
 
 <details>
-<summary> Depressão</summary>
+<summary><b>Depressão</b></summary>
 
 
   Caraterizada por sintomas como: humor depressivo, diminuição do interesse ou prazer por atividades, alterações do apetite, insónia, alterações psicomotoras, fadiga, sentimentos de desvalorização ou culpa, diminuição da capacidade de pensamento ou concentração, pensamentos recorrentes acerca da morte, ideação suicida.
 </details>
 
 <details>
-<summary> Perturbação Obsessivo-Compulsiva, também conhecida como POC</summary>
+<summary> <b>Perturbação Obsessivo-Compulsiva, também conhecida como POC</b></summary>
 
 
   As caraterísticas essenciais são as obsessões, tais como, ideias, pensamentos, impulsos ou imagens persistentes e compulsões, tais como comportamentos ou atos mentais repetitivos. Esta características têm um impacto muito significativo sobre a vida do indivíduo, reduzindo em muito a sua autonomia funcional.
 </details>
 
 <details>
-<summary> Ansiedade generalizada</summary>
+<summary><b> Ansiedade generalizada</b></summary>
 
 Carateriza-se por ansiedade e preocupação exageradas acompanhadas de agitação, fadiga, dificuldade de concentração, irritabilidade e sono perturbado. Estes sintomas têm uma frequência muito elevada precisando portanto  de uma atenção clínica permanente.
 </details>
 
 <details>
-<summary> Ataques de pânico</summary>
+<summary><b> Ataques de pânico </b></summary>
 
 Os sintomas incluem palpitações, suores, dificuldades em respirar, dores no peito, tonturas ou sensações de cabeça oca, desrealização ou despersonalização, medo de perder o controlo, medo de morrer. Estes ataques podem decorrer no contexto de outras perturbações psiquiátricas.
 </details>
 
 <details>
-<summary> Perturbações do comportamento alimentar</summary>
+<summary> <b>Perturbações do comportamento alimentar</b></summary>
 
 Recusa em manter um peso corporal normal mínimo (anorexia) ou episódios repetidos de voracidade alimentar, seguidos por comportamentos compensatórios inapropriados (bulimia). A caraterística comum a estas duas perturbações é a existência de uma distorção marcada da imagem corporal.
 </details>
 
 <details>
-<summary> Perturbações do neurodesenvolvimento</summary>
+<summary><b> Perturbações do neurodesenvolvimento</b></summary>
 
 Caraterizam-se por um défice grave e global em diversas áreas do desenvolvimento: competências socias, competências de comunicação ou pela presença de comportamentos, interesses e atividades estereotipadas (p.e Autismo).
 
 </details>
 
 <details>
-<summary> Comportamentos aditivos, dependências - Alcoolismo e toxicodependência</summary>
+<summary><b> Comportamentos aditivos, dependências - Alcoolismo e toxicodependência</b></summary>
 
 Incluem perturbações relacionadas com o consumo de uma droga de abuso, incluindo o álcool, (dependência, abuso intoxicação e abstinência). Incluem também adições comportamentais, tais como o jogo patológico, compras compulsivas, entre outras. Mais recentemente a dependência da internet tem também vindo a incluir este lote de perturbações.
 </details>
 
 <details>
-<summary> Esquizofrenia e outras psicoses</summary>
+<summary><b> Esquizofrenia e outras psicoses</b></summary>
 
 Carateriza-se por uma eventual perda de contacto com a realidade, com sintomas como agitação/lentificação psicomotora, comportamentos, afetos e produção de pensamento disfuncionais e halucinações sensoriais que causam marcada disfunção social ou ocupacional.
 </details>
 
 <details>
 
-<summary> Perturbação bipolar</summary>
+<summary><b> Perturbação bipolar</b></summary>
 
 A evolução clínica desta perturbação é caraterizada pela presença de episódios maníacos ou mistos (incluem episódios depressivos). Esta é uma perturbação marcada pela elevada instabilidade emocional.
 </details>
 
 <details>
 
-<summary> Perturbações sexuais, parafilias</summary>
+<summary><b> Perturbações sexuais, parafilias</b></summary>
 
 Caraterizam-se por perturbações do desejo sexual e das modificações que caraterizam o ciclo de resposta sexual ou dor associada ao ato sexual.
 </details>
 
 <details>
 
-<summary> Perturbações do sono</summary>
+<summary> <b>Perturbações do sono</b></summary>
 
 Surgem de anomalias endógenas dos mecanismos de génese e horário de ciclo sono-vigília, frequentemente complicadas por fatores de condicionamento.</details>
 
 <details>
 
-<summary> Perturbações de personalidade</summary>
+<summary><b> Perturbações de personalidade</b></summary>
 
 Os traços de personalidade são desadaptativos, causando incapacidade funcional significativa ou sofrimento subjetivo: perturbação paranoide, esquizoide e esquizotípica da personalidade; Perturbações antissocial, estado-limite Borderline, histriónica e narcísica da personalidade; Perturbação dependente, evitante e obsessivo-compulsiva da personalidade.</details>
 
 <details>
 
-<summary> Perturbações psicossomáticas</summary>
+<summary><b> Perturbações psicossomáticas</b></summary>
 
 Padrão de queixas somáticas clinicamente significativas, recorrentes e múltiplas. Uma queixa somática é considerada clinicamente significativa se resulta em tratamento médico ou causa incapacidade significativa no funcionamento social e ocupacional.</details>
 
 <details>
 
-<summary> Hiperatividade e défice de atenção</summary>
+<summary><b> Hiperatividade e défice de atenção</b></summary>
 
 Padrão persistente de falta de atenção e/ou impulsividade-hiperatividade, com uma intensidade que é mais frequente e grave que o observado habitualmente em sujeitos com um nível semelhante de desenvolvimento.</details>
 
 <details>
 
-<summary> Perturbações neurodegenerativas</summary>
+<summary><b> Perturbações neurodegenerativas</b></summary>
 
 Caraterizam-se pelo desenvolvimento de défices cognitivos múltiplos (incluindo diminuição da memória) devido aos efeitos diretos de um estado físico geral, aos efeitos persistentes de uma substancia ou a múltiplas etiologias. Nestas se incluem por exemplo: Alzheimer, parkinson, demência frontal, esclerose múltipla, entre outras.</details>
 
 <details>
 
-<summary> Perturbação Pós-Stress Traumático</summary>
+<summary><b> Perturbação Pós-Stress Traumático</b></summary>
 
 Desenvolvimento de sintomas característicos a seguir à exposição ou observação de um stressor traumático extremo, implicando uma experiencia pessoal direta com o acontecimento que envolva morte, ameaça de morte ou ferimento grave. Nesta perturbação o doente está constantemente a  reexperienciar os sintomas de grande activação cognitiva, emocional e comportamental que havia experienciado aquando do contacto com o evento stressor.
 </details>
