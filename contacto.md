@@ -26,7 +26,7 @@ Este acompanhamento será feito por profissionais especializados em saúde menta
 
 ## Solução à medida das suas necessidades
 
-Dispomos de várias opções de residência, internamento psiquiátrico e modalidades de consultas e intervenções, para que possamos responder de uma forma personalizada à pessoa que nos procura.
+Dispomos de várias opções de residência, internamento psiquiátrico e modalidades de consultas e intervenções, para que possamos responder de uma forma personalizada à pessoa que nos procura. Fazemos intermanento psiquiátrico com vários preços dependendo das condições do internamento.
 
 
 Os nossos endereços e contactos são :
