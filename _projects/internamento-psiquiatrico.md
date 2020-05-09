@@ -7,7 +7,7 @@ tags:
 - Investigação
 priority: 1
 description: Integração de doentes em unidades de cuidades especializadas.
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/2018/02/17/neurons.png"
 sub_heading: Integração de doentes em unidades de cuidados especializadas em Lisboa,
   Aveiro e Coimbra.
 ---
