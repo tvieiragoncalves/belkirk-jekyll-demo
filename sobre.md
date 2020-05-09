@@ -1,7 +1,7 @@
 ---
 title: Sobre
 date: 2017-11-01 03:00:00 +00:00
-banner_image: "/uploads/2018/12/03/61802.jpg"
+banner_image: "/uploads/2018/12/03/61802.png"
 heading: Sobre a MH Resources
 sub_heading: ''
 layout: landing-page
