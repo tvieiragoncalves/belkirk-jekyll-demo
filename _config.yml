@@ -38,7 +38,7 @@ defaults:
   values:
     layout: post
 url: "https://www.mhresources.pt"
-logo: "/img/logo-retina.png"
+logo: "/img/logo-retina_1.svg"
 google_site_verification:
 paginate: 10
 paginate_file: "/index.html"
