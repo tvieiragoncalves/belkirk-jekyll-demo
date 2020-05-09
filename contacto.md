@@ -1,7 +1,7 @@
 ---
 title: Contacto
 date: 2017-11-01 03:00:00 +00:00
-banner_image: "/img/map.png"
+banner_image: "/img/map(1).png"
 heading: Contacte MH Resources
 publish_date: 2017-12-01 04:00:00 +00:00
 show_staff: true
@@ -26,7 +26,7 @@ Este acompanhamento será feito por profissionais especializados em saúde menta
 
 ## Solução à medida das suas necessidades
 
-Dispomos de várias opções de residência, internamento psiquiátrico e modalidades de consultas e intervenções, para que possamos responder de uma forma personalizada à pessoa que nos procura. 
+Dispomos de várias opções de residência, internamento psiquiátrico e modalidades de consultas e intervenções, para que possamos responder de uma forma personalizada à pessoa que nos procura.
 
 
 Os nossos endereços e contactos são :
