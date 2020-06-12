@@ -14,7 +14,7 @@ sub_heading: Integração de doentes em unidades de cuidados especializadas em L
 
 ## O que fazemos
 
-A nossa intervenção é pautada por um cuidado específico na perturbações psicológicas e psiquiátricas, cuidado esso em que é desenvolvido um plano individual e personalizado para cada caso. Trabalhamos também com doenças degenerativas que , pela incapacitação em termos de autonomia do doente, requerem um acompanhamento mais próximo e funcional. A integração dos doentes é feita num ambiente comunitário em residência psiquiátrica numa das clínicas psiquiátricas particulares, com condições ótimas para uma progresso terapêutico e recuperação da qualidade de vida.
+A nossa intervenção é pautada por um cuidado específico na perturbações psicológicas e psiquiátricas, cuidado esse em que é desenvolvido um plano individual e personalizado para cada caso. Trabalhamos também com doenças degenerativas que , pela incapacitação em termos de autonomia do doente, requerem um acompanhamento mais próximo e funcional. A integração dos doentes é feita num ambiente comunitário em residência psiquiátrica numa das clínicas psiquiátricas particulares, com condições ótimas para uma progresso terapêutico e recuperação da qualidade de vida.
 
 Para além dos serviços médico/psiquiátricos e psicoterapêuticos, as clínicas dispõe de condições de alojamento modernas para que se possa sentir acolhido da melhor forma.
 Fazemos tratamentos nas clinicas de psiquiatria com internamento a vários preços mediante as condições do internamento.
