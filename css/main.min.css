@@ -1108,7 +1108,7 @@ nav ul a {
 }
 
 .navigation li.current>a {
-  color: #01fffe94;
+  color: #8b2004;
   border-bottom: 2px solid #8b2004
 }
 
@@ -1153,7 +1153,7 @@ nav ul a {
 }
 
 .button-success {
-  background: #01fffe94
+  background: #8b2004
     /* this is a green */
 }
 
