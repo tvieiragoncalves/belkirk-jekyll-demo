@@ -1109,7 +1109,8 @@ nav ul a {
 
 .navigation li.current>a {
   color: #8b2004;
-  border-bottom: 2px solid #8b2004
+  border-bottom: 5px solid #8b2004b5;
+  border-radius: 20px
 }
 
 .navigation>li>a:hover {
