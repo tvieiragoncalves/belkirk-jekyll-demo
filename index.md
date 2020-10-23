@@ -7,13 +7,13 @@ menus:
   navigation:
     identifier: _index
     weight: 1
-banner_image: "/img/bannercompress.png"
+banner_image: "/img/bannercompress.webp"
 heading: MH Resources
 logoli: "https://casadaoliveira-cspc.pt/"
 
 partners:
   - "/uploads/2018/11/26/logo.svg"
-  - "/uploads/2018/11/26/logo2.jpeg"  
+  - "/uploads/2018/11/26/logo2.webp"  
   - "/img/logo fundo_transparente.svg"
 
 
