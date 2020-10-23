@@ -13,7 +13,7 @@ logoli: "https://casadaoliveira-cspc.pt/"
 
 partners:
   - "/uploads/2018/11/26/logo.svg"
-  - "/uploads/2018/11/26/logo2.webp"  
+  - "/img/logo2.webp"  
   - "/img/logo fundo_transparente.svg"
 
 
