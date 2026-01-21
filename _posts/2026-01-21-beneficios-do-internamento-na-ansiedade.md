@@ -1,7 +1,9 @@
+---
 title: Benefícios do Internamento na ansiedade
 layout: post
 date: '2019-09-30 15:15:24 +0000'
 tags: Internamento clínica psiquiátrica ansiedade psicologia psiquiatria
+---
 
 A ansiedade é uma das perturbações psiquiátricas mais frequentes na população. Segundo a Organização Mundial de Saúde, os transtornos de ansiedade estão entre os problemas de saúde mental mais prevalentes a nível mundial, afetando milhões de pessoas de todas as idades. Embora a ansiedade seja uma resposta natural do organismo ao perigo ou ao stress, quando se torna excessiva, persistente e incapacitante, pode comprometer seriamente a qualidade de vida do indivíduo.
 
