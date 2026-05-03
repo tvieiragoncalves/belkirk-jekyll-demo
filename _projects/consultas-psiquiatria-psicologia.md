@@ -41,7 +41,7 @@ A modernização da era tecnológica trouxe a possibilidade de aproximar o doent
 
 A comunicação é a ferramenta fundamental para o trabalho terapêutico realizado ao nível da saúde mental. Tendo este aspecto presente, temos à nossa disposição profissionais fluentes em vários idiomas para que possamos tornar mais clara e precisa esta intervenção.
 
-Parceria com https://www.psicologiaporto.pt/
+Info via [psicologiaporto](https://psicologiaporto.pt)
 
 
 Se quiser marcar uma consulta contacte-nos.
